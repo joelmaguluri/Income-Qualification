@@ -1,0 +1,15 @@
+Variational Inference 
+ Information - -logp(x) x - certain event 
+ Average of Information - Entropy 
+ Entropy - Expectation of Information 
+ P and Q - K L divergence 
+ KL - divergence : 
+	P and Q is measure of similarity between distributions 
+	Entropy(Q)-Entropy(p) 
+	It is with respect to one distribution 
+	KL(p||q) Average information with respect to P 
+
+1. Always >= 0 
+2. It is not symetric KL(p||q)!=KL(q||p)
+3. KL div has connection to Entropy and Information 
+	
